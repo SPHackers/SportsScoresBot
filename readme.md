@@ -1,4 +1,4 @@
-# Sports Scores Bot (SPH)
+# Sports Scores Bot (Side Project Hackers)
 
 [![Build Status](https://travis-ci.org/SPHackers/SportsScoresBot.svg?branch=master)](https://travis-ci.org/SPHackers/SportsScoresBot)
 [![Style Status](https://styleci.io/repos/64997233/shield)](https://styleci.io/repos/64997233/shield)
