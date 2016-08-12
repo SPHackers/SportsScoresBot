@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "470481d5ebcb30df288ee17a4f02384d",
-    "content-hash": "0dbe7b941c7a84225eb1341087463ac0",
+    "hash": "95cc7b04aed329c8535f247b78b045b1",
+    "content-hash": "a8483b861536f3f094fe63ff7f19c40f",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -738,6 +738,47 @@
                 "slack"
             ],
             "time": "2015-06-03 03:35:16"
+        },
+        {
+            "name": "maknz/slack-laravel",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/maknz/slack-laravel.git",
+                "reference": "d62741f731c963c71272159b38f8209ce57ff85b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/maknz/slack-laravel/zipball/d62741f731c963c71272159b38f8209ce57ff85b",
+                "reference": "d62741f731c963c71272159b38f8209ce57ff85b",
+                "shasum": ""
+            },
+            "require": {
+                "maknz/slack": "~1.0",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Maknz\\Slack\\Laravel\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "maknz",
+                    "email": "github@mak.geek.nz"
+                }
+            ],
+            "description": "Laravel 4 and 5 integration for the maknz/slack package, including facades and service providers.",
+            "keywords": [
+                "laravel",
+                "slack"
+            ],
+            "time": "2016-06-25 06:08:23"
         },
         {
             "name": "monolog/monolog",
