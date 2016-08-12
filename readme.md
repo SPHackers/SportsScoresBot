@@ -1,6 +1,8 @@
 # Sports Scores Bot (SPH)
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
+https://styleci.io/repos/64997233/shield
+
 
 ## Contributing
 
