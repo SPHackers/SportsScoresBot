@@ -14,8 +14,7 @@
 use Maknz\Slack\Facades\Slack;
 
 Route::get('/', function () {
-
-	Slack::send('test');
+    Slack::send('test');
 
     return view('welcome');
 });
