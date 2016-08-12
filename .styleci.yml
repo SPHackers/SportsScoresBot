@@ -1,11 +1,8 @@
-preset: recommended
+preset: laravel
 
 risky: false
 
 linting: true
-
-disabled:
-  - align_double_arrow
 
 finder:
   exclude:
